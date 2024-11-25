@@ -8,7 +8,7 @@ This repository documents my home lab focused on **PDQ Inventory: Hardware and S
 - **Create Custom Reports:** Learn how to build and customize reports to track hardware specifications, software installations, and system configurations.
 - **VirtualBox Network Setup:** Utilize VirtualBox to simulate a network environment with various Windows OS virtual machines for inventory management.
 
-.--
+
 
 <h2>Documentation</h2>
 
